@@ -6,6 +6,6 @@ public class Main : MonoBehaviour
 {
 	void Start ()
     {
-        TextManager.Instance.ShowText();
+        //TextManager.Instance.ShowText();
 	}
 }
